@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T05:54:03.986Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bao47rT19SIBiDCGs49y" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T06:25:12.253Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DLliqLM1SA8pRwlm7ubX" version="24.0.4" type="github">
   <diagram name="페이지-1" id="lGosDp3T9TM7N0VhiUiF">
     <mxGraphModel dx="819" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="878" y="320" width="116" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Lqf84lOBojtRBltQ2In1-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png;" parent="1" vertex="1">
-          <mxGeometry x="679.91" y="489" width="48.33" height="65" as="geometry" />
+          <mxGeometry x="670" y="489" width="48.33" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Lqf84lOBojtRBltQ2In1-32" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="459.5" y="337" width="197" height="26" as="geometry" />
