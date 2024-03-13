@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T04:30:05.720Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="s1OuwqhNC-UvVKXWeB8A" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T04:30:26.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OvvSXRtmMMQKg9_zdvW8" version="24.0.4" type="github">
   <diagram name="페이지-1" id="lGosDp3T9TM7N0VhiUiF">
     <mxGraphModel dx="1012" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -621,7 +621,7 @@
         </mxCell>
         <UserObject label="Mongo DB Server" link="ay.in" id="shImFHVS_Xn59WfX4RjC-1">
           <mxCell style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=116;height=23;" vertex="1" parent="1">
-            <mxGeometry x="399" y="599" width="216" height="131" as="geometry" />
+            <mxGeometry x="396" y="600" width="216" height="131" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
