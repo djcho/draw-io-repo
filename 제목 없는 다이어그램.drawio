@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T00:58:49.241Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bPBIelveslis1m6itDQg" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T03:14:39.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wXvnZiR5UKdUuwaYxp_K" version="24.6.2" type="github">
   <diagram name="페이지-1" id="Pn5aXM_OYk8LmlGie384">
-    <mxGraphModel dx="1434" dy="761" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2226.5" y="340" width="459" height="339" as="geometry" />
+        </mxCell>
         <mxCell id="ZmmKUuz6rlgp4hlY3Kx1-10" value="&lt;b&gt;110.10.125.111(CentOS 9)&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
           <mxGeometry x="160" y="110" width="180" height="210" as="geometry" />
         </mxCell>
@@ -59,6 +62,147 @@
         </mxCell>
         <mxCell id="ZmmKUuz6rlgp4hlY3Kx1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZmmKUuz6rlgp4hlY3Kx1-34" target="ZmmKUuz6rlgp4hlY3Kx1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-17" value="&lt;b&gt;110.10.125.107(CentOS 9)&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="2244" y="542" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-20" value="&amp;lt;&amp;lt; service daemon &amp;gt;&amp;gt;&lt;br&gt;Mosquitto" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-17">
+          <mxGeometry x="10" y="44" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-28" value="&lt;b&gt;110.10.125.108(CentOS 9)&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="2483" y="542" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-31" value="&amp;lt;&amp;lt; service daemon &amp;gt;&amp;gt;&lt;br&gt;Redis Sentinel" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-28">
+          <mxGeometry x="10" y="44" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-33" target="Ej_nZ6ee_O5mXItBJ8MR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-33" target="Ej_nZ6ee_O5mXItBJ8MR-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-33" value="&lt;b&gt;110.10.125.106(L4)&lt;/b&gt;&lt;div&gt;&lt;b&gt;(mq.s1esp.com)&lt;/b&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="2366" y="396" width="180" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-20" target="Ej_nZ6ee_O5mXItBJ8MR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-51" value="Bridge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ej_nZ6ee_O5mXItBJ8MR-50">
+          <mxGeometry x="-0.0012" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-52" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt; api1 &amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;110.10.125.111(CentOS 9)&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=167;height=41;" vertex="1" parent="1">
+          <mxGeometry x="1747" y="445" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-54" value="&amp;lt;&amp;lt; Lumen PHP &amp;gt;&amp;gt;&lt;div&gt;REST-API App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-52">
+          <mxGeometry x="10" y="64" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-60" value="&lt;div&gt;&lt;b&gt;&amp;lt;&amp;lt; api2 &amp;gt;&amp;gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;110.10.125.111(CentOS 9)&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=167;height=41;" vertex="1" parent="1">
+          <mxGeometry x="1930" y="445" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ej_nZ6ee_O5mXItBJ8MR-60" source="Ej_nZ6ee_O5mXItBJ8MR-62" target="Ej_nZ6ee_O5mXItBJ8MR-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-62" value="&amp;lt;&amp;lt; Lumen PHP &amp;gt;&amp;gt;&lt;div&gt;REST-API App&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-60">
+          <mxGeometry x="10" y="64" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-63" value="MQTT ClientLibrary" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-60">
+          <mxGeometry x="29.5" y="155" width="121" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-66" value="&lt;div&gt;&lt;b&gt;Agent side&lt;/b&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=115;height=26;" vertex="1" parent="1">
+          <mxGeometry x="2802" y="421" width="200" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-70" value="&amp;lt;&amp;lt; windows service &amp;gt;&amp;gt;&lt;br&gt;S1ESPSub.exe" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-66">
+          <mxGeometry x="20" y="106" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ej_nZ6ee_O5mXItBJ8MR-66" source="Ej_nZ6ee_O5mXItBJ8MR-71" target="Ej_nZ6ee_O5mXItBJ8MR-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-71" value="S1ESPAgent" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="Ej_nZ6ee_O5mXItBJ8MR-66">
+          <mxGeometry x="20" y="49" width="160" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-70" target="Ej_nZ6ee_O5mXItBJ8MR-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2746" y="562" />
+              <mxPoint x="2746" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-75" value="Subscribe topic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ej_nZ6ee_O5mXItBJ8MR-74">
+          <mxGeometry x="0.0298" y="-3" relative="1" as="geometry">
+            <mxPoint x="20" y="123" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-63" target="Ej_nZ6ee_O5mXItBJ8MR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-88" value="&lt;b&gt;MQTT Server side&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2219" y="264" width="113" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-91" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2193" y="830" as="sourcePoint" />
+            <mxPoint x="2193" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-93" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2717" y="822" as="sourcePoint" />
+            <mxPoint x="2717" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-94" value="&lt;b&gt;Agent side&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2723" y="259" width="113" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-95" value="&lt;b&gt;Api Server side&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1747" y="270" width="113" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-55" target="Ej_nZ6ee_O5mXItBJ8MR-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1837" y="706" />
+              <mxPoint x="2151" y="706" />
+              <mxPoint x="2151" y="611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-97" value="Publish topic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ej_nZ6ee_O5mXItBJ8MR-96">
+          <mxGeometry x="-0.0355" y="4" relative="1" as="geometry">
+            <mxPoint x="106" y="-92" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-99" value="&lt;b&gt;Cluster&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2229" y="344" width="73" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-55" value="MQTT ClientLibrary" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="1775.5" y="600" width="123" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-54" target="Ej_nZ6ee_O5mXItBJ8MR-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;dashPattern=1 4;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-101" target="Ej_nZ6ee_O5mXItBJ8MR-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1857" y="730.0526315789475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1720" y="761" />
+              <mxPoint x="1720" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-101" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;⚠️ sskaje/mqtt&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;해당 라이브러리는 현재 Github에서 유지보수 되고 있지 않으므로 추후에 새로운 라이브러리로 교체가 필요하다.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="735" width="187" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-106" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;dashPattern=1 4;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.059;exitY=-0.035;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ej_nZ6ee_O5mXItBJ8MR-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2450" y="614" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="2450" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ej_nZ6ee_O5mXItBJ8MR-107" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;MQTT Bridge&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Bridge 설정은 108번에만 설정된다. /etc/mosquitto/mosquitto.conf 파일에 107번 서버로 들어오는 모든 요청에 대해 Qos 0레벨 정책으로 &quot;양방향&quot; 동기화 설정이 되어 있다.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="702" width="186" height="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
