@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T01:54:15.309Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_mHzWv8eC6wyqyaS4WBB" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T01:54:52.690Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QoC7TTCIayApstsi_Z_E" version="24.6.4" type="github">
   <diagram name="페이지-1" id="XIiHkbwO5vJLCOaLFscR">
     <mxGraphModel dx="1307" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
           <mxGeometry x="85.73" y="690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="avvWg3cv_dRgICwLxERR-123" value="send" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.06;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="avvWg3cv_dRgICwLxERR-149" target="avvWg3cv_dRgICwLxERR-130">
-          <mxGeometry x="-0.3364" relative="1" as="geometry">
+          <mxGeometry x="-0.2835" relative="1" as="geometry">
             <mxPoint x="1630" y="1160" as="targetPoint" />
             <mxPoint x="930" y="980" as="sourcePoint" />
             <Array as="points">
