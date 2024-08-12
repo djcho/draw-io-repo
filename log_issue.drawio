@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="페이지-1" id="o4UjfvPEKV2Tyz4JEV6Z">
-    <mxGraphModel dx="869" dy="1882" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="2237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,13 +165,13 @@
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-118" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="836" y="-36" as="sourcePoint" />
-            <mxPoint x="836" y="-656" as="targetPoint" />
+            <mxPoint x="833" y="-678" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-119" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="824" y="-36" as="sourcePoint" />
-            <mxPoint x="824" y="-655.7272727272727" as="targetPoint" />
+            <mxPoint x="824" y="-681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-120" value="&lt;b&gt;S1ESP 서버&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
