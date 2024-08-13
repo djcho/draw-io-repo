@@ -279,8 +279,8 @@
             <mxPoint x="-45" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCoUPGcrH4WvF_BZCP8f-226" value="1. 최고 관리자 등록 시" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="104" y="63" width="388" height="46" as="geometry" />
+        <mxCell id="SCoUPGcrH4WvF_BZCP8f-226" value="1. 최고 관리자 등록 시 - 일반적인 시나리오" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="104" y="63" width="595" height="46" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-255" value="&lt;div&gt;보호&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;인터페이스&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;glass=0;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="796" y="-1292" width="21" height="218" as="geometry" />
