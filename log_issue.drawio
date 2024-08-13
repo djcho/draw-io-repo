@@ -132,8 +132,8 @@
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-57" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="767" y="-707" as="sourcePoint" />
-            <mxPoint x="767" y="-1325" as="targetPoint" />
+            <mxPoint x="765" y="-707" as="sourcePoint" />
+            <mxPoint x="765" y="-1325" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-58" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
@@ -146,7 +146,7 @@
           <mxGeometry x="1021" y="-1041.47" width="22" height="24" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-85" value="&lt;b&gt;S1ESP 서버&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="774" y="-738" width="100" height="32" as="geometry" />
+          <mxGeometry x="772" y="-738" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-86" value="&lt;b&gt;클라이언트 PC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="649" y="-738" width="100" height="32" as="geometry" />
@@ -187,8 +187,8 @@
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-118" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="771" y="-39" as="sourcePoint" />
-            <mxPoint x="768" y="-681" as="targetPoint" />
+            <mxPoint x="764" y="-39" as="sourcePoint" />
+            <mxPoint x="764" y="-683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-119" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-120" value="&lt;b&gt;S1ESP 서버&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="774" y="-70" width="100" height="32" as="geometry" />
+          <mxGeometry x="765" y="-70" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-121" value="&lt;b&gt;클라이언트 PC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="649" y="-70" width="100" height="32" as="geometry" />
@@ -279,7 +279,7 @@
             <mxPoint x="-45" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCoUPGcrH4WvF_BZCP8f-226" value="1. 최고 관리자 등록 시 - 일반적인 시나리오" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="SCoUPGcrH4WvF_BZCP8f-226" value="3. 최고 관리자 등록 시 - 일반적인 시나리오" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="104" y="63" width="595" height="46" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-255" value="&lt;div&gt;보호&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;인터페이스&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;glass=0;strokeColor=#82b366;" vertex="1" parent="1">
@@ -501,8 +501,8 @@
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-352" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="773" y="761" as="sourcePoint" />
-            <mxPoint x="770" y="119" as="targetPoint" />
+            <mxPoint x="766" y="761" as="sourcePoint" />
+            <mxPoint x="766" y="117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-353" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
@@ -512,7 +512,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-354" value="&lt;b&gt;S1ESP 서버&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="776" y="730" width="100" height="32" as="geometry" />
+          <mxGeometry x="769" y="730" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-355" value="&lt;b&gt;클라이언트 PC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="651" y="730" width="100" height="32" as="geometry" />
@@ -660,8 +660,8 @@
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-395" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="766" y="1546" as="sourcePoint" />
-            <mxPoint x="763" y="904" as="targetPoint" />
+            <mxPoint x="760" y="1546" as="sourcePoint" />
+            <mxPoint x="760" y="906" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-396" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
@@ -671,7 +671,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-397" value="&lt;b&gt;S1ESP 서버&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="769" y="1515" width="100" height="32" as="geometry" />
+          <mxGeometry x="763" y="1515" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-398" value="&lt;b&gt;클라이언트 PC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="644" y="1515" width="100" height="32" as="geometry" />
@@ -691,10 +691,10 @@
           <mxGeometry x="482" y="1398" width="22" height="25" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-408" value="&lt;div&gt;서비스 시스템&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="799" y="1965" width="263" height="215" as="geometry" />
+          <mxGeometry x="816" y="1965" width="263" height="215" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-409" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="1675" width="470" height="576" as="geometry" />
+          <mxGeometry x="166" y="1675" width="470" height="576" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-410" value="S1ESP" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="SCoUPGcrH4WvF_BZCP8f-409">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -719,7 +719,7 @@
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-417" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-416" target="SCoUPGcrH4WvF_BZCP8f-431">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1079" y="2105" as="targetPoint" />
+            <mxPoint x="1096" y="2105" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -728,14 +728,14 @@
             <mxPoint x="-45" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCoUPGcrH4WvF_BZCP8f-419" value="3. 최고 관리자 등록 시 - 수정된 시나리오" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="72" y="1604" width="595" height="46" as="geometry" />
+        <mxCell id="SCoUPGcrH4WvF_BZCP8f-419" value="4. 최고 관리자 등록 시 - 수정된 시나리오" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=34;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="89" y="1604" width="595" height="46" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-420" value="인증 시스템&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="799" y="1657" width="268" height="219" as="geometry" />
+          <mxGeometry x="816" y="1657" width="268" height="219" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-421" value="&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;검증성공&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="975.0588235294122" y="1830.7352941176473" as="geometry" />
+          <mxGeometry x="992.0588235294122" y="1830.7352941176473" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-422" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-424" target="SCoUPGcrH4WvF_BZCP8f-435">
           <mxGeometry relative="1" as="geometry" />
@@ -746,18 +746,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-424" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=10;" vertex="1" parent="1">
-          <mxGeometry x="1433" y="1906" width="80" height="92" as="geometry" />
+          <mxGeometry x="1450" y="1906" width="80" height="92" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-425" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-426" target="SCoUPGcrH4WvF_BZCP8f-430">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-452" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=4;strokeColor=#EA6B66;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-426" target="SCoUPGcrH4WvF_BZCP8f-432">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="889" y="1803" as="sourcePoint" />
+            <mxPoint x="906" y="1803" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="851" y="1897" />
-              <mxPoint x="1108" y="1897" />
-              <mxPoint x="1108" y="1801" />
+              <mxPoint x="868" y="1897" />
+              <mxPoint x="1125" y="1897" />
+              <mxPoint x="1125" y="1801" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -767,16 +767,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-426" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;토큰 검증 모듈&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="814" y="1700" width="73" height="149" as="geometry" />
+          <mxGeometry x="831" y="1700" width="73" height="149" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-427" value="&lt;font color=&quot;#050804&quot;&gt;6. 인증 토큰 존재 여부 확인 =&amp;gt; 존재&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=1;strokeColor=#050804;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-432" target="SCoUPGcrH4WvF_BZCP8f-426">
           <mxGeometry x="-0.9295" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1259" y="1684" />
-              <mxPoint x="851" y="1684" />
+              <mxPoint x="1276" y="1684" />
+              <mxPoint x="868" y="1684" />
             </Array>
             <mxPoint as="offset" />
-            <mxPoint x="1459" y="1710" as="targetPoint" />
+            <mxPoint x="1476" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-428" value="&lt;font color=&quot;#050804&quot;&gt;7. 토큰 검증 요청&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="SCoUPGcrH4WvF_BZCP8f-427">
@@ -785,22 +785,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-429" value="&lt;div&gt;비보호&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;프로토콜&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="764" y="1962" width="21" height="218" as="geometry" />
+          <mxGeometry x="781" y="1962" width="21" height="218" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-430" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;인증 서비스&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="914" y="1700" width="134" height="149" as="geometry" />
+          <mxGeometry x="931" y="1700" width="134" height="149" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-431" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;관리자 서비스&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="862" y="2012" width="149" height="149" as="geometry" />
+          <mxGeometry x="879" y="2012" width="149" height="149" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-432" value="&lt;div&gt;로깅 시스템&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1197" y="1754" width="124" height="188" as="geometry" />
+          <mxGeometry x="1214" y="1754" width="124" height="188" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-433" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-435" target="SCoUPGcrH4WvF_BZCP8f-432">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1156" y="2053" />
-              <mxPoint x="1156" y="1848" />
+              <mxPoint x="1173" y="2053" />
+              <mxPoint x="1173" y="1848" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -810,18 +810,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-435" value="&lt;div&gt;모니터링 시스템&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1197" y="1959" width="124" height="189" as="geometry" />
+          <mxGeometry x="1214" y="1959" width="124" height="189" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-436" value="&lt;div&gt;보호&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;인터페이스&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;glass=0;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="764" y="1657" width="21" height="218" as="geometry" />
+          <mxGeometry x="781" y="1657" width="21" height="218" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-437" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-424" target="SCoUPGcrH4WvF_BZCP8f-431">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="1883" as="sourcePoint" />
-            <mxPoint x="1050.0000000000005" y="1811.75" as="targetPoint" />
+            <mxPoint x="1187" y="1883" as="sourcePoint" />
+            <mxPoint x="1067.0000000000005" y="1811.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1473" y="2208" />
-              <mxPoint x="937" y="2208" />
+              <mxPoint x="1490" y="2208" />
+              <mxPoint x="954" y="2208" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -833,8 +833,8 @@
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-439" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.606;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=5;strokeColor=#97D077;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-424" target="SCoUPGcrH4WvF_BZCP8f-431">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1461" y="2193" />
-              <mxPoint x="952" y="2193" />
+              <mxPoint x="1478" y="2193" />
+              <mxPoint x="969" y="2193" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -845,26 +845,26 @@
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-441" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="741" y="2302" as="sourcePoint" />
-            <mxPoint x="738" y="1660" as="targetPoint" />
+            <mxPoint x="752" y="2302" as="sourcePoint" />
+            <mxPoint x="752" y="1660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-442" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="725" y="2302" as="sourcePoint" />
-            <mxPoint x="725" y="1657" as="targetPoint" />
+            <mxPoint x="742" y="2302" as="sourcePoint" />
+            <mxPoint x="742" y="1657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-443" value="&lt;b&gt;S1ESP 서버&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="744" y="2271" width="100" height="32" as="geometry" />
+          <mxGeometry x="755" y="2271" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-444" value="&lt;b&gt;클라이언트 PC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="619" y="2271" width="100" height="32" as="geometry" />
+          <mxGeometry x="636" y="2271" width="100" height="32" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-445" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;dashed=1;endArrow=open;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-412">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="2106" as="targetPoint" />
-            <mxPoint x="434" y="2196.8199999999997" as="sourcePoint" />
+            <mxPoint x="717" y="2106" as="targetPoint" />
+            <mxPoint x="451" y="2196.8199999999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-446" value="&lt;div style=&quot;text-align: left;&quot;&gt;2. 과거 인증토큰 삽입&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Bearer eyJ0eXAiOiJKV1Qi&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;LCJhbGciOiJFUzUxMiJ9.....&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;fillColor=none;gradientColor=none;fontStyle=1" vertex="1" connectable="0" parent="SCoUPGcrH4WvF_BZCP8f-445">
@@ -873,22 +873,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-449" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#97d077&quot;&gt;3. 토큰 만료 설정&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;strike&gt;&lt;font color=&quot;#97d077&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Bearer eyJ0eXAiOiJKV1Qi&lt;/font&gt;&lt;/strike&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;strike&gt;&lt;font color=&quot;#97d077&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;LCJhbGciOiJFUzUxMiJ9.....&lt;/font&gt;&lt;/strike&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=0;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;fillColor=none;gradientColor=none;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="997.7192655125689" y="2233.0263629730716" as="geometry">
+          <mxGeometry x="1014.7192655125689" y="2233.0263629730716" as="geometry">
             <mxPoint x="4" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-450" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_ghosted;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="932.29" y="2229" width="22" height="25" as="geometry" />
+          <mxGeometry x="949.29" y="2229" width="22" height="25" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-451" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security_orange;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="456" y="2156" width="23" height="26" as="geometry" />
+          <mxGeometry x="473" y="2156" width="23" height="26" as="geometry" />
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-454" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=4;strokeColor=#EA6B66;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="SCoUPGcrH4WvF_BZCP8f-432">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1318" y="1801" as="sourcePoint" />
-            <mxPoint x="1466" y="1831" as="targetPoint" />
+            <mxPoint x="1335" y="1801" as="sourcePoint" />
+            <mxPoint x="1483" y="1831" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1466" y="1801" />
+              <mxPoint x="1483" y="1801" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -898,7 +898,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCoUPGcrH4WvF_BZCP8f-458" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=11;" vertex="1" parent="1">
-          <mxGeometry x="1456" y="1836" width="20" height="20" as="geometry" />
+          <mxGeometry x="1473" y="1836" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
