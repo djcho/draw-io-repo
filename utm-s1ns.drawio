@@ -7,7 +7,7 @@
         <mxCell id="y2j8pdcFpELkHroc6ahy-34" value="&amp;lt;&amp;lt; Web Service&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;div&gt;S1ESP&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="208" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="y2j8pdcFpELkHroc6ahy-2" value="S1ESP API Server" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=40;" vertex="1" parent="1">
+        <mxCell id="y2j8pdcFpELkHroc6ahy-2" value="S1ESP API Server" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="280" height="310" as="geometry" />
         </mxCell>
         <mxCell id="y2j8pdcFpELkHroc6ahy-9" value="Consumer PC" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=170;" vertex="1" parent="1">
@@ -56,10 +56,10 @@
             <mxPoint x="1210" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y2j8pdcFpELkHroc6ahy-27" value="S1ESP DB Server" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=40;" vertex="1" parent="1">
+        <mxCell id="y2j8pdcFpELkHroc6ahy-27" value="S1ESP DB Server" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="y2j8pdcFpELkHroc6ahy-29" value="에스원 NS Server" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=160;height=40;" vertex="1" parent="1">
+        <mxCell id="y2j8pdcFpELkHroc6ahy-29" value="에스원 NS Server" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=150;height=30;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="y2j8pdcFpELkHroc6ahy-30" value="&amp;lt;&amp;lt; Web Service &amp;gt;&amp;gt;&lt;br&gt;에스원 NS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
