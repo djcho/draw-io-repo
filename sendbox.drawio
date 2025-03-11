@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="페이지-1" id="Y2dLASEYGfxgdQD2mr--">
-    <mxGraphModel dx="1434" dy="2195" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3034" dy="2195" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,31 +16,28 @@
         <mxCell id="NHUCo9_RereNcycSFT4u-7" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1262" y="294" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-8" target="NHUCo9_RereNcycSFT4u-32">
+        <mxCell id="NHUCo9_RereNcycSFT4u-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-8" target="NHUCo9_RereNcycSFT4u-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-8" target="NHUCo9_RereNcycSFT4u-33">
+        <mxCell id="NHUCo9_RereNcycSFT4u-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-8" target="NHUCo9_RereNcycSFT4u-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-8" target="NHUCo9_RereNcycSFT4u-24">
+        <mxCell id="NHUCo9_RereNcycSFT4u-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-8" target="NHUCo9_RereNcycSFT4u-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="634" y="493" />
-              <mxPoint x="1075" y="493" />
+              <mxPoint x="632" y="439" />
+              <mxPoint x="1075" y="439" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-8" value="SupervisorService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="572" y="288" width="120" height="38" as="geometry" />
+        <mxCell id="NHUCo9_RereNcycSFT4u-8" value="SupervisorService" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="572" y="260" width="120" height="94" as="geometry" />
         </mxCell>
         <mxCell id="NHUCo9_RereNcycSFT4u-11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="85" y="602" as="sourcePoint" />
+            <mxPoint x="85" y="583" as="sourcePoint" />
             <mxPoint x="85" y="98" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-13" value="Route" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="134" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NHUCo9_RereNcycSFT4u-14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -48,22 +45,13 @@
             <mxPoint x="532" y="97" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-15" value="Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="387" y="136" width="66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-16" value="Service" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="692" y="131" width="66" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NHUCo9_RereNcycSFT4u-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1840" y="979" as="sourcePoint" />
             <mxPoint x="1841" y="539" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-20" value="Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="131" width="66" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-22" target="NHUCo9_RereNcycSFT4u-7">
+        <mxCell id="NHUCo9_RereNcycSFT4u-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-22" target="NHUCo9_RereNcycSFT4u-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHUCo9_RereNcycSFT4u-22" value="BrokerManagerModel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -81,22 +69,25 @@
             <mxPoint x="1175" y="101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-20" target="NHUCo9_RereNcycSFT4u-20">
+        <mxCell id="NHUCo9_RereNcycSFT4u-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1048" y="161" as="sourcePoint" />
+            <mxPoint x="1048" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-32" target="NHUCo9_RereNcycSFT4u-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-32" target="NHUCo9_RereNcycSFT4u-22">
+        <mxCell id="NHUCo9_RereNcycSFT4u-32" value="BrokerService&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22SupervisorService%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22569%22%20y%3D%22289%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="728" y="181" width="120" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-33" target="NHUCo9_RereNcycSFT4u-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-32" value="BrokerService&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22SupervisorService%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22569%22%20y%3D%22289%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="728" y="205" width="120" height="54" as="geometry" />
+        <mxCell id="NHUCo9_RereNcycSFT4u-33" value="ProviderService" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="728" y="334" width="120" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-33" target="NHUCo9_RereNcycSFT4u-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-33" value="ProviderService" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="728" y="356" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="NHUCo9_RereNcycSFT4u-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-24" target="NHUCo9_RereNcycSFT4u-7">
+        <mxCell id="NHUCo9_RereNcycSFT4u-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-24" target="NHUCo9_RereNcycSFT4u-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NHUCo9_RereNcycSFT4u-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-23" target="NHUCo9_RereNcycSFT4u-7">
@@ -158,6 +149,160 @@
             <mxPoint x="294" y="582" as="sourcePoint" />
             <mxPoint x="294" y="93" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-75" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-777" y="120" width="77" height="489" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;dashed=1;dashPattern=1 4;" vertex="1" parent="NHUCo9_RereNcycSFT4u-75">
+          <mxGeometry x="30" y="28.416464891041162" width="19" height="460.5835351089588" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-77" value="Middleware" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="NHUCo9_RereNcycSFT4u-75">
+          <mxGeometry x="-2" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-78" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-151" y="360" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-83" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-932" y="630" as="sourcePoint" />
+            <mxPoint x="-932" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-84" value="Route&lt;br&gt;Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="103" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-85" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-466" y="636" as="sourcePoint" />
+            <mxPoint x="-466" y="103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-86" value="Controller Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-634" y="101" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-88" value="Model&lt;div&gt;Layer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-375" y="97" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-90" target="NHUCo9_RereNcycSFT4u-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-90" value="BrokerManagerModel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-421" y="321.5" width="158" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-91" value="ProviderManagerModel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-421" y="384.5" width="158" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-92" value="BrokerActivityLogModel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-421" y="455.5" width="158" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-93" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-215" y="627.5" as="sourcePoint" />
+            <mxPoint x="-221" y="101.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-88" target="NHUCo9_RereNcycSFT4u-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-95" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-104" target="NHUCo9_RereNcycSFT4u-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="234" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-106" target="NHUCo9_RereNcycSFT4u-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-580" y="383" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-92" target="NHUCo9_RereNcycSFT4u-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-91" target="NHUCo9_RereNcycSFT4u-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-117" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-102" target="NHUCo9_RereNcycSFT4u-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-102" target="NHUCo9_RereNcycSFT4u-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-102" target="NHUCo9_RereNcycSFT4u-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-102" value="SupervisorController" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-705" y="311.5" width="208" height="170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-104" value="BrokerManagerController" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-681" y="175.75" width="160" height="113.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-106" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ProviderManagerController&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-681" y="523" width="160" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-108" target="NHUCo9_RereNcycSFT4u-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-108" value="/api/v1/provider/managers/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="560.75" width="156" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-110" target="NHUCo9_RereNcycSFT4u-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-110" value="/api/v1/brokers/managers/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-908" y="218" width="156" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NHUCo9_RereNcycSFT4u-112" target="NHUCo9_RereNcycSFT4u-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-112" value="/api/v1/supervisors/" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-904" y="382.25" width="124" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-114" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-736" y="633" as="sourcePoint" />
+            <mxPoint x="-736" y="102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-122" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-648.5" y="552.5" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-125" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-694" y="408" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-126" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-648.5" y="212.75" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-127" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-601" y="408" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-129" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="743" y="212.75" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-130" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="743" y="362" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-131" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-692.5" y="343" width="183" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-132" value="&lt;div&gt;BusinessLogic{&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; CRUD&lt;br&gt;}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="288" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-133" value="Database&lt;br&gt;Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-154" y="99" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-134" value="Route&lt;br&gt;Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="154" y="93" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-135" value="Controller Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="382" y="90" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-136" value="Model&lt;div&gt;Layer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1018" y="90" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-137" value="Database&lt;br&gt;Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="93" width="66" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NHUCo9_RereNcycSFT4u-139" value="Service&lt;br&gt;&lt;div&gt;Layer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#6B93FF;" vertex="1" parent="1">
+          <mxGeometry x="696" y="85" width="66" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
