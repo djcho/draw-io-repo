@@ -65,6 +65,17 @@
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-20" value="Repository&lt;br&gt;(Code, Image)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="514" y="370" width="90" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-27" target="ZhHLJX4HFlj_oHhNkQ0L-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-29" value="push / pull" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZhHLJX4HFlj_oHhNkQ0L-28">
+          <mxGeometry x="-0.8199" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-27" value="local" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="1">
+          <mxGeometry x="511" y="686" width="96" height="69.12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
