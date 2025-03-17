@@ -36,37 +36,43 @@
           <mxGeometry x="354" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-7" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="954" y="360" width="160" height="50" as="geometry" />
+          <mxGeometry x="984" y="360" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-8" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="964" y="590" width="160" height="50" as="geometry" />
+          <mxGeometry x="977" y="590" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-12" value="BE Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1034" y="330" width="80" height="30" as="geometry" />
+          <mxGeometry x="1064" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-13" target="ZhHLJX4HFlj_oHhNkQ0L-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1084" y="527" />
-              <mxPoint x="934" y="527" />
-              <mxPoint x="934" y="345" />
+              <mxPoint x="951" y="527" />
+              <mxPoint x="951" y="345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-13" value="FE Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1044" y="560" width="80" height="30" as="geometry" />
+          <mxGeometry x="1057" y="560" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-14" value="docker-compose.yml" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
-          <mxGeometry x="884" y="350" width="21.92" height="30" as="geometry" />
+          <mxGeometry x="876" y="345" width="21.92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-15" value="docker-compose.yml" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
           <mxGeometry x="884" y="575" width="21.92" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-18" target="ZhHLJX4HFlj_oHhNkQ0L-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-18" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="964" y="560" width="80" height="30" as="geometry" />
+          <mxGeometry x="977" y="560" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-19" target="ZhHLJX4HFlj_oHhNkQ0L-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-19" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="954" y="330" width="80" height="30" as="geometry" />
+          <mxGeometry x="984" y="330" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-20" target="ZhHLJX4HFlj_oHhNkQ0L-5">
           <mxGeometry relative="1" as="geometry" />
