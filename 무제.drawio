@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="페이지-1" id="rf7EFunDmAB-ykwR9J7b">
-    <mxGraphModel>
+    <mxGraphModel dx="1242" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-2" value="BE EC2" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=30;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-3" value="FE EC2" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=30;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-4" value="gitlab" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=30;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="300" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-5" target="ZhHLJX4HFlj_oHhNkQ0L-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="345" />
+              <mxPoint x="400" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-5" target="ZhHLJX4HFlj_oHhNkQ0L-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="345" />
+              <mxPoint x="400" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-5" value="Runner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-6" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-7" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-8" value="Docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="460" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-12" value="BE Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-13" value="FE Container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-14" value="docker-compose.yml" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="610" y="220" width="21.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-15" value="docker-compose.yml" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="1">
+          <mxGeometry x="610" y="445" width="21.92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-18" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="430" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-19" value="NGINX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-20" target="ZhHLJX4HFlj_oHhNkQ0L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-20" value="Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="60" height="75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
