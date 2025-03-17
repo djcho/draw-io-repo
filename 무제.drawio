@@ -76,6 +76,9 @@
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-27" value="local" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="1">
           <mxGeometry x="511" y="686" width="96" height="69.12" as="geometry" />
         </mxCell>
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;OfficeNext Platfrom&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;As-is&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Server Architecture&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="239" y="193" width="390" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
