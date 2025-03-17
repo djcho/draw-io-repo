@@ -62,8 +62,8 @@
         <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="ZhHLJX4HFlj_oHhNkQ0L-20" target="ZhHLJX4HFlj_oHhNkQ0L-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-20" value="Repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="514" y="370" width="60" height="75" as="geometry" />
+        <mxCell id="ZhHLJX4HFlj_oHhNkQ0L-20" value="Repository&lt;br&gt;(Code, Image)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="514" y="370" width="90" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
