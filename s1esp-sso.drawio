@@ -180,6 +180,9 @@
             <mxPoint x="-106" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QOJlggBWHbBiH2H2tHko-66" value="1. 사용자는 https://s1esp.com의 S1ESP FE 를 통해 S1ESP BE에 로그인을 시도한다.&lt;div&gt;2. 로그인에 성공하면 S1ESP BE는 JWT를 생성 후 대칭키로 암호화한 JWE를 sso-token 이름으로 반환한다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- JWT에는&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;consumer_id, manager_id, requeset_ip가 포함된다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;3. S1ESP FE는 응답받은 sso-token을 브라우저 쿠키에 저장한다.&lt;/div&gt;&lt;div&gt;4. S1ESP FE는 응답받은 sso-token을 복호화하고, 만료일자를 획득해 주기적으로 토큰 만료 여부를 확인한다.&lt;/div&gt;&lt;div&gt;5. 만약 만료일자가&amp;nbsp; 곧 도래하거나 이미 만료되었다면 S1ESP BE로 새로운 sso-token 발급을 요청한다.&lt;/div&gt;&lt;div&gt;6. S1ESP BE는 새로운 토큰을 생성하여 내려준다.&lt;/div&gt;&lt;div&gt;7. S1ESP FE는 다시 sso-token을 쿠키에 저장하고 모니터링한다.&lt;/div&gt;&lt;div&gt;8. 별개로, S1ESP FE 내부의 iframe 에 렌더링할 https://3rd-party.s1esp.com 을 호출한다.&lt;/div&gt;&lt;div&gt;9. 쿠키를 통해 전달받은&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;https://3rd-party.s1esp.com에 해당하는 외부 FE서버는 자신의 BE로 화면 렌더링에 필요한 API들을 호출한다.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;10. 외부 BE는 쿠키의 sso-token 검증한다.&lt;/div&gt;&lt;div&gt;&amp;nbsp;- 대칭키 복호화 검증, JWT서명 검증, 만료여부 검증, IP검증&lt;/div&gt;&lt;div&gt;11. sso-token검증에 성공하면 외부 sso-token 내부의 consumer_id와 manager_id를 이용해 BE는 자신만의 인증 토큰 혹은 인증 세션을 확보한다.&lt;/div&gt;&lt;div&gt;12. 외부 FE는 사용자 세션 화면을 렌더링한다.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14" y="-623" width="772" height="311" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
