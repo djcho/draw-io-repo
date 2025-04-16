@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="페이지-1" id="8mMjFByBqZ8wEZKrKUkN">
-    <mxGraphModel dx="2074" dy="2555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="2363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,19 +98,8 @@
         <mxCell id="QOJlggBWHbBiH2H2tHko-63" value="set-cookie(new sso token)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="QOJlggBWHbBiH2H2tHko-20" source="QOJlggBWHbBiH2H2tHko-48" target="QOJlggBWHbBiH2H2tHko-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-48" value="Listener" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QOJlggBWHbBiH2H2tHko-20">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-48" value="sso token&lt;br&gt;Timer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QOJlggBWHbBiH2H2tHko-20">
           <mxGeometry x="162" y="292" width="72" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="QOJlggBWHbBiH2H2tHko-20" source="QOJlggBWHbBiH2H2tHko-49" target="QOJlggBWHbBiH2H2tHko-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-51" value="PodstMessage" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-50">
-          <mxGeometry x="0.4014" relative="1" as="geometry">
-            <mxPoint x="1" y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-49" value="Listener" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QOJlggBWHbBiH2H2tHko-20">
-          <mxGeometry x="162" y="414.5" width="72" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QOJlggBWHbBiH2H2tHko-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QOJlggBWHbBiH2H2tHko-20" source="QOJlggBWHbBiH2H2tHko-48" target="QOJlggBWHbBiH2H2tHko-48">
           <mxGeometry relative="1" as="geometry" />
