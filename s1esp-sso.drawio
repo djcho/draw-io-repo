@@ -24,7 +24,7 @@
         <mxCell id="QOJlggBWHbBiH2H2tHko-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOJlggBWHbBiH2H2tHko-4" target="QOJlggBWHbBiH2H2tHko-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-15" value="sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-14">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-15" value="sso token / refresh sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-14">
           <mxGeometry x="0.0604" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="9" as="offset" />
           </mxGeometry>
@@ -35,7 +35,7 @@
         <mxCell id="QOJlggBWHbBiH2H2tHko-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QOJlggBWHbBiH2H2tHko-5" target="QOJlggBWHbBiH2H2tHko-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-9" value="request login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-8">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-9" value="request sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-8">
           <mxGeometry x="-0.2231" relative="1" as="geometry">
             <mxPoint x="14" y="-11" as="offset" />
           </mxGeometry>
@@ -75,7 +75,7 @@
             <mxPoint x="727" y="-1023" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-59" value="request sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-24">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-59" value="request login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-24">
           <mxGeometry x="-0.1244" relative="1" as="geometry">
             <mxPoint x="-20" y="-11" as="offset" />
           </mxGeometry>
@@ -98,7 +98,7 @@
         <mxCell id="QOJlggBWHbBiH2H2tHko-63" value="set-cookie(new sso token)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="QOJlggBWHbBiH2H2tHko-20" source="QOJlggBWHbBiH2H2tHko-48" target="QOJlggBWHbBiH2H2tHko-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-48" value="sso token&lt;br&gt;Timer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QOJlggBWHbBiH2H2tHko-20">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-48" value="sso token&lt;br&gt;Manager" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="QOJlggBWHbBiH2H2tHko-20">
           <mxGeometry x="162" y="292" width="72" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QOJlggBWHbBiH2H2tHko-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QOJlggBWHbBiH2H2tHko-20" source="QOJlggBWHbBiH2H2tHko-48" target="QOJlggBWHbBiH2H2tHko-48">
@@ -125,9 +125,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-26" value="sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-25">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-26" value="sso token / refresh sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-25">
           <mxGeometry x="0.6203" y="-1" relative="1" as="geometry">
-            <mxPoint x="160" y="14" as="offset" />
+            <mxPoint x="144" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QOJlggBWHbBiH2H2tHko-45" value="set-cookie : https://3rd-party.com :: sso-token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-25">
@@ -143,15 +143,20 @@
             <mxPoint x="-130" y="-108" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QOJlggBWHbBiH2H2tHko-67" value="sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-31">
+          <mxGeometry x="-0.101" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QOJlggBWHbBiH2H2tHko-42" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="1420" y="-961" width="45" height="37.8" as="geometry" />
         </mxCell>
         <mxCell id="QOJlggBWHbBiH2H2tHko-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=0.079;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="QOJlggBWHbBiH2H2tHko-4" target="QOJlggBWHbBiH2H2tHko-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-44" value="sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-43">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-44" value="sso refresh token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-43">
           <mxGeometry x="-0.4414" y="-14" relative="1" as="geometry">
-            <mxPoint x="6" y="5" as="offset" />
+            <mxPoint x="8" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QOJlggBWHbBiH2H2tHko-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.433;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QOJlggBWHbBiH2H2tHko-48" target="QOJlggBWHbBiH2H2tHko-4">
@@ -175,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QOJlggBWHbBiH2H2tHko-57" value="new token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-56">
+        <mxCell id="QOJlggBWHbBiH2H2tHko-57" value="new sso token / refresh sso token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QOJlggBWHbBiH2H2tHko-56">
           <mxGeometry x="-0.2162" y="-1" relative="1" as="geometry">
             <mxPoint x="-106" y="11" as="offset" />
           </mxGeometry>
