@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_8GRGcNNE5g4Zsb68gkF-16" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="31" width="1467" height="938" as="geometry" />
+        </mxCell>
         <mxCell id="_8GRGcNNE5g4Zsb68gkF-6" value="Log System" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=6;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1305" y="777.25" width="196" height="155.5" as="geometry" />
         </mxCell>
@@ -245,12 +248,12 @@
           <mxGeometry x="625" y="1063" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-114" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;lose1719&lt;/span&gt;&lt;/div&gt;" style="points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.user;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="95" y="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="123" y="66" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-122" value="DMS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="646.5" y="1018" width="120" height="30" as="geometry" />
+          <mxGeometry x="647.5" y="1018" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1" source="IwtM4HSSWSZ5z5dpLfm0-122">
+        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-123" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" edge="1" source="IwtM4HSSWSZ5z5dpLfm0-122">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="707" y="859" as="sourcePoint" />
             <mxPoint x="706.69" y="789" as="targetPoint" />
