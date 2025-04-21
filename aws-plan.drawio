@@ -121,7 +121,7 @@
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=1;" edge="1" parent="1" source="IwtM4HSSWSZ5z5dpLfm0-23" target="IwtM4HSSWSZ5z5dpLfm0-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="877" y="700" />
+              <mxPoint x="877" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-23" value="Create ECR / ECS" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="807" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="791" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwtM4HSSWSZ5z5dpLfm0-28" target="IwtM4HSSWSZ5z5dpLfm0-12">
           <mxGeometry relative="1" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-50" value="Create Database" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="589" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-51" value="RDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="677" y="590" width="60" height="80" as="geometry" />
