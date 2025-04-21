@@ -290,8 +290,8 @@
         <mxCell id="_8GRGcNNE5g4Zsb68gkF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="_8GRGcNNE5g4Zsb68gkF-12" target="IwtM4HSSWSZ5z5dpLfm0-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_8GRGcNNE5g4Zsb68gkF-12" value="Lagacy RDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="496" y="993" width="60" height="80" as="geometry" />
+        <mxCell id="_8GRGcNNE5g4Zsb68gkF-12" value="Lagacy Databases" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="482" y="989.5" width="74" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
