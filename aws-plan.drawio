@@ -283,6 +283,9 @@
         <mxCell id="_8GRGcNNE5g4Zsb68gkF-5" value="S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1408" y="809.75" width="80" height="101" as="geometry" />
         </mxCell>
+        <mxCell id="_8GRGcNNE5g4Zsb68gkF-8" value="ohsc" style="points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.user;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1284" y="737" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
