@@ -294,7 +294,7 @@
         <mxCell id="_8GRGcNNE5g4Zsb68gkF-12" value="Lagacy Databases" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="482" y="989.5" width="74" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="_8GRGcNNE5g4Zsb68gkF-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png" vertex="1" parent="1">
+        <mxCell id="_8GRGcNNE5g4Zsb68gkF-14" value="gitlab" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/Gitlab-128.png;labelPosition=center;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="828.5" y="181.5" width="77" height="77" as="geometry" />
         </mxCell>
       </root>
