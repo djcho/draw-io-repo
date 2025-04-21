@@ -86,7 +86,7 @@
             <mxPoint x="1087" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-69" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;Run Terraform:production&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IwtM4HSSWSZ5z5dpLfm0-32" vertex="1" connectable="0">
+        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-69" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;Run Terraform:deploy&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IwtM4HSSWSZ5z5dpLfm0-32" vertex="1" connectable="0">
           <mxGeometry x="-0.5982" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -190,7 +190,7 @@
             <mxPoint x="-76" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-83" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;production&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IwtM4HSSWSZ5z5dpLfm0-77" vertex="1" connectable="0">
+        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-83" value="&lt;span style=&quot;background-color: rgb(185, 224, 165);&quot;&gt;deploy&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IwtM4HSSWSZ5z5dpLfm0-77" vertex="1" connectable="0">
           <mxGeometry x="0.2" y="-3" relative="1" as="geometry">
             <mxPoint y="7" as="offset" />
           </mxGeometry>
@@ -198,7 +198,7 @@
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-71" value="Prepare Deploy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="987" y="470" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-75" value="ServiceDef::App&lt;br&gt;- Run Migrate" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-75" value="ServiceDef::App&lt;br&gt;- Run Migrate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1262" y="526" width="147" height="64" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-76" value="ServiceDef::InitService&lt;br&gt;- Run Seeder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
