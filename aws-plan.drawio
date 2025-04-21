@@ -23,7 +23,7 @@
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwtM4HSSWSZ5z5dpLfm0-1" target="IwtM4HSSWSZ5z5dpLfm0-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-1" value="Initialize Network(VPN, ALB, SG, ...)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-1" value="Create Network Infra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IwtM4HSSWSZ5z5dpLfm0-2" target="IwtM4HSSWSZ5z5dpLfm0-12">
@@ -123,7 +123,7 @@
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwtM4HSSWSZ5z5dpLfm0-50" target="IwtM4HSSWSZ5z5dpLfm0-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-50" value="Initailize Database" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IwtM4HSSWSZ5z5dpLfm0-50" value="Create Database" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-51" value="RDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
