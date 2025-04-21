@@ -286,6 +286,9 @@
         <mxCell id="_8GRGcNNE5g4Zsb68gkF-8" value="ohsc" style="points=[];aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.user;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="1284" y="737" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_8GRGcNNE5g4Zsb68gkF-10" value="&lt;b&gt;* Only Once&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="766.5" y="1005" width="91" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
