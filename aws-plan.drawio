@@ -209,7 +209,7 @@
           <mxGeometry x="33" y="430" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-94" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Scenario 2 :&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 17px;&quot;&gt;Post-provisioning&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="578" y="39" width="250" height="40" as="geometry" />
+          <mxGeometry x="562" y="39" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IwtM4HSSWSZ5z5dpLfm0-96" value="Route53" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="370" width="120" height="30" as="geometry" />
